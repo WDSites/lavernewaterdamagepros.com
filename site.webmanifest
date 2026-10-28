@@ -1,0 +1,20 @@
+{
+ "name": "La Verne Water Damage Pros",
+ "short_name": "La Verne WD Pros",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ],
+ "theme_color": "#0D1B2A",
+ "background_color": "#ffffff",
+ "display": "browser",
+ "start_url": "/"
+}
